@@ -6,10 +6,7 @@ int main(){
 	Ex_INT_Init();
 	sei();
 	while(1){
-		App_Start();
-		
-		
-		
+		App_Start();	
 	}
 
 	return 0;
