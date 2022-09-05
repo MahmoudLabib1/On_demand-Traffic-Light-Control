@@ -7,6 +7,9 @@ int main(){
 	sei();
 	while(1){
 		App_Start();
+		
+		
+		
 	}
 
 	return 0;
